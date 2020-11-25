@@ -1,0 +1,11 @@
+.warning{
+    color:white;
+    background-color:crimson;
+    padding: 1rem;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic
+    }
